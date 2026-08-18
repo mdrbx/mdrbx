@@ -1,2 +1,2 @@
 ## Working with 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrbx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs?username=mdrbx&layout=donut&hide_title=true&langs_count=5&theme=synthwave)
